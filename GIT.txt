@@ -1,0 +1,7 @@
+m3shovon Token: https://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
+
+https://username:password@github.com/username/repository.git
+
+https://m3shovon:$iHotashInMyLife@100%@github.com/The-ICT-Hub-LTD/CMR-Web.git
+
+https://github.com/The-ICT-Hub-LTD/CMR-Web.git

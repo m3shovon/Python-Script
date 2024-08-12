@@ -1,0 +1,36 @@
+#########   https://help.pythonanywhere.com/pages/DeployExistingDjangoProject   #########
+
+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
+Github TOKEN>>> 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
+
+https://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@github.com/Shovon-Mufrid/FOODIES-Blog.git
+
+
+mkvirtualenv --python=/usr/bin/python3.10 venv >>>> /home/vlogspot/.virtualenvs/venv/bin/
+pwd to manage.py>>> /home/vlogspot/FOODIES-Blog
+
+/home/ecostore/eCommerce_IT
+/home/ecostore/eCommerce_IT/Eco_Commerce
+
+
+web>>> shovon.pythonanywhere.com
+
+
+pythonanywhere.com
+shovon
+shovonmf007
+
+http://shovon.pythonanywhere.com
+
+
+Database host address:ecostore.mysql.pythonanywhere-services.com
+Username:ecostore
+PASS: $iHateMyLife@0%
+
+
+
+HOST: 'vlogspot.mysql.pythonanywhere-services.com'
+NAME: 'vlogspot$default'
+PORT: 3306
+USER: 'vlogspot'
+PASSWORD: '$iHateMyLife@0%'
